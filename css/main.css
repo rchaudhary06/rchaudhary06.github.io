@@ -70,8 +70,5 @@ footer ul {
   align-items: center;
 }
 
-.date {
-  margin-left: auto;
-}
-
+.last_updated {float: right; color: #aeb5de}
   
