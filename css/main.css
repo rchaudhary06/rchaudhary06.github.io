@@ -70,5 +70,5 @@ footer ul {
   align-items: center;
 }
 
-.last_updated {float: right; color: #aeb5de}
+.last_updated {margin-left: auto; color: #aeb5de}
   
