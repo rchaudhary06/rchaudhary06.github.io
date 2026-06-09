@@ -3,7 +3,7 @@ body {
   margin: 60px auto;
   width: 70%;
   color: #7286fc;
-  font-size: 1.5em;
+  font-size: 1.2em;
   background-color: #f3f4f6;
 }
 
@@ -65,7 +65,7 @@ p {
 footer {
   font-size: 0.8em;
 }
-<!border-top: 1px solid #d5d5d5>
+
 
 ul.posts {
   margin: 20px auto 40px;
