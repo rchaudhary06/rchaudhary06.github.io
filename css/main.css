@@ -2,12 +2,12 @@
 body {
   margin: 60px auto;
   width: 70%;
-  color: #7286fc;
+  color: #F2EED9;
   background-color: #f3f4f6;
 }
 
 .container {
-    background-color: #e6374b;
+    background-color: #ff6b7b;
     padding: 30px;
     border-radius: 20px;
     box-shadow: 0px 8px 20px rgba(0,0,0,0.3);
@@ -28,7 +28,7 @@ nav ul li, footer ul li {
 
 a { 
   text-decoration: none;
-  color: #F2EED9;
+  color: #ff6b7b;
 }
 
 h1 {
