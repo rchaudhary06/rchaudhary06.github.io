@@ -2,8 +2,8 @@
 body {
   margin: 60px auto;
   width: 70%;
-  color: #F2EED9;
-  background-color: #f3f4f6;
+  color: #765341;
+  background-color: #e6e6fa;
 }
 
 .container {
@@ -28,7 +28,7 @@ nav ul li, footer ul li {
 
 a { 
   text-decoration: none;
-  color: #b1eafa;
+  color: #765341;
 }
 
 h1 {
@@ -52,13 +52,13 @@ h4 {
 }
 
 h1, h2, h3, h4 {
-    color: #F2EED9;
+    color: #765341;
 }
 
 p {
   font-size: 1em;
   line-height: 1.4em;
-  color: #F2EED9;
+  color: #765341;
 }
 
 footer {
@@ -70,5 +70,5 @@ footer ul {
   align-items: center;
 }
 
-.last_updated {margin-left: auto; color: #ff6b7b}
+.last_updated {margin-left: auto; color: #765341}
   
