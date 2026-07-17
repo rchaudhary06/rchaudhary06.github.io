@@ -61,11 +61,6 @@ p {
   color: #161617;
 }
 
-p2 {
-  font-size: 0.5em;
-  line-height: 1.4em;
-  color: #161617;
-}
 
 footer {
   font-size: 0.8em;
@@ -103,4 +98,7 @@ footer ul {
     font-size: 0.9em;
     margin-top: 10px;
 }
-  
+
+.credits p {
+    font-size: 0.5em;
+}
