@@ -103,3 +103,22 @@ footer ul {
     font-size: 0.5em;
     color: #161617;
 }
+
+.intro {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
+
+.blurb {
+  flex: 1;
+}
+
+.profile_photo img {
+  width: 250px;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2)
+}
+  
