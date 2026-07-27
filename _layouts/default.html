@@ -10,7 +10,7 @@
     
     <!-- link to font-awesome stylesheet -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" rel="stylesheet"> -->
 
 
     <!-- MathJax -->
@@ -18,14 +18,8 @@
       src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
 
-    <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
-
     <script>
-    const lightbox = GLightbox({
-      selector: ".glightbox",
-      touchNavigation: true,
-      loop: true
-    });
+    lightGallery(document.getElementById('astro-gallery'));
     </script>
     
   </head>
