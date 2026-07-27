@@ -11,18 +11,9 @@
     <!-- link to font-awesome stylesheet -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <!-- link to lightgallery stylesheet -->
-    <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/lightgallery.min.js"></script>
-
     <!-- MathJax -->
     <script type="text/javascript"
       src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-
-    <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/lightgallery.min.js"></script>
-
-    <script>
-    lightGallery(document.getElementById('astro-gallery'));
     </script>
     
   </head>
@@ -54,8 +45,13 @@
         <li class = "last_updated"> Last updated on: {{ page.last_modified_date}}</li>
       </ul>
     </footer>
-      
-      
+
+      <!-- link to lightgallery stylesheet -->
+      <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/lightgallery.min.js"></script>
+
+      <script>
+      lightGallery(document.getElementById('astro-gallery'));
+      </script>
   </body>
   
   
